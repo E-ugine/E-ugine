@@ -1,7 +1,7 @@
 # README.md
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/xZ6YzXZkSs64wk4s7C/giphy.gif" width="100"/>
+  <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/eugine-agolla-309b99227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,18 +9,18 @@
 </div>
 <h1>
   Bonjour!
-  <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="30px"/>
+<!--   <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="30px"/> -->
 </h1>
 </div>
 
 
 ### Bio:
 
-- 🔭 Currently learning softaware engineering
+- 🔭 Currently learning software engineering
   
-- 👯 I’m looking to collaborate on open source projects.
+- 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Javascript and  web development in details.
+- 💬 Ask me about Javascript and  web development in detail.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: 
 - ⚡ Fun fact: I can dream of lines of code😆
