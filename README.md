@@ -22,7 +22,7 @@
 - 💬 Ask me about Javascript and  web development in detail.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: async/await
-- ⚡ Fun fact: I dream lines of code 😆
+- ⚡ Fun fact: I dream of lines of code 😆
 
 ### Languages and Tools
 - Technical Skills/ Programming language: JavaScript, React, CSS, HTML. 
@@ -40,8 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/https://miro.medium.com/v2/resize:fit:640/format:webp/0*Hdm7hBTZ-hKlbtlV.png" title="REACT" alt="React" width="40" height="40" />&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
   </div>
