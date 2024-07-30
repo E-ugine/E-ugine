@@ -1,7 +1,7 @@
 # README.md
 
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="100"/>
+  <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="30px"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/eugine-agolla-309b99227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
