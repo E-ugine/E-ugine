@@ -16,7 +16,7 @@
 
 ### Bio:
 
-- 🔭 Currently learning software engineering
+- 🔭 Currently learning Software Engineering
   
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with ...
