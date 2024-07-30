@@ -22,13 +22,13 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javascript and  web development in detail.
 - 📫 How to reach me: LinkedIn
-- 😄 Pronouns: 
+- 😄 Pronouns: async/await
 - ⚡ Fun fact: I can dream of lines of code😆
 
 ### Languages and Tools
 - Technical Skills/ Programming language: JavaScript, React, CSS, HTML. 
 
-- Web creation tools: HTML, CSS, React,Javascript
+- Web creation tools: HTML, CSS, React, Javascript
 <br> <br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=E-ugine)
