@@ -22,7 +22,7 @@
 - 💬 Ask me about Javascript and  web development in detail.
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: async/await
-- ⚡ Fun fact: I dream of lines of code 😆
+- ⚡ Fun fact: As an engineer, I'm just as good as my tools!😆
 
 ### Languages and Tools
 - Technical Skills/ Programming language: JavaScript, React, CSS, HTML. 
