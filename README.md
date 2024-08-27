@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/eugine-agolla-309b99227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://public.tableau.com/app/profile/michelle.juliet/">Tableau Projects </a>
+    
 </div>
 <h1>
   HOLA!
