@@ -59,3 +59,8 @@
   <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
   </div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simply-furaha&show_icons=true&locale=en&layout=compact" alt="simply-furaha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simply-furaha&show_icons=true&locale=en" alt="simply-furaha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simply-furaha&" alt="simply-furaha" /></p>
