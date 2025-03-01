@@ -26,11 +26,11 @@
 -->
 ### Bio:
 
-- 🔭 I’m currently learning Software Development
-- 🌱 I’m passionate about cyber security.
-- 👯 I’m looking to collaborate on software development projects
-- 🤔 I’m curious about hacking ✨
-- 💬 Ask me about Python, JavaScript, React, CSS, and HTML
+- 🔭 I’m a Software Developer
+- 🌱 I’m passionate about Data Science.
+- 👯 I’m looking to collaborate on software development projects.
+- 🤔 I’m curious about AI ✨
+- 💬 Ask me about Python, JavaScript. & their libraries 
 - 📫 How to reach me: Twitter, LinkedIn
 - 😄 Pronouns: async/await 😆
 - ⚡ Fun fact: As a dev, I'm just as good as my tools!😆
