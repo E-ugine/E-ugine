@@ -29,7 +29,7 @@
 - 🔭 I’m a Software Developer
 - 🌱 I’m passionate about AI agents.
 - 👯 I’m looking to collaborate on software development projects.
-- 🤔 I’m curious about AI ✨
+- 🤔 I’m curious about AI agents and workflow automations ✨
 - 💬 Ask me about Python, JavaScript, Laravel, and n8n automations.
 - 📫 How to reach me: Twitter, LinkedIn
 - 😄 Pronouns: async/await 😆
