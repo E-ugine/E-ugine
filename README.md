@@ -10,14 +10,6 @@
   HOLA!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-  <p align="center">
-  <samp>
-    A talented dev in love with
-    <br><br>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
-    <br><br>
-  </samp>
-</p>
 
 </div>
 
