@@ -11,23 +11,23 @@
 </h1>
 </div>
 
-### 🚀 Backend & Payments Infrastructure Engineer
+### Backend & Payments Infrastructure Engineer
 
 I build concurrency-safe financial backends, distributed data layers, and idempotent transaction processing systems. My engineering focus is eliminating race conditions, enforcing database-level data invariants, and optimizing low-latency architectures for international systems.
 
-- 🌍 **Remote Availability:** Actively seeking international remote contracts and roles.
+-  **Remote Availability:** Actively seeking international remote contracts and roles.
 - ⚡ **Core Specializations:** Database Concurrency Control (ACID), Idempotent Payment Ingestion, Event-Driven Architectures, Double-Entry Ledgers.
 - 💬 **Ask me about:** Python (FastAPI), Relational Database Internals (PostgreSQL locking states), and API Optimization.
-- 😄 **Pronouns:** async / await 🚀
+- 😄 **Pronouns:** async / await 
 
 ---
 
-### 🛠️ Core Stack & Technical Arsenal
+### 🛠️ Core Stack
 
 <p align="left">
   <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>
   </a>&nbsp;
   <!-- PostgreSQL -->
   <a href="https://postgresql.org" target="_blank" rel="noreferrer">
@@ -43,21 +43,22 @@ I build concurrency-safe financial backends, distributed data layers, and idempo
   </a>&nbsp;
   <!-- PHP/Laravel -->
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+    <img src="https://githubusercontent.com" alt="php" width="45" height="45"/>
   </a>&nbsp;
   <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://java.com" target="_blank" rel="noreferrer">
     <img src="https://githubusercontent.com" alt="java" width="45" height="45"/>
   </a>&nbsp;
   <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+    <img src="https://vectorlogo.zone" alt="tailwind" width="45" height="45"/>
   </a>&nbsp;
   <!-- Vue.js -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
+  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="vuejs" width="45" height="45"/>
   </a>
 </p>
+
 
 ---
 
@@ -87,3 +88,4 @@ A high-integrity accounting engine built to ensure zero structural drift.
 <p align="center">
   <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
+
