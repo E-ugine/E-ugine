@@ -4,52 +4,86 @@
   <a href="https://www.linkedin.com/in/eugine-agolla-309b99227/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    
 </div>
 <h1>
   HOLA!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
 </div>
 
-<!--
-**E-ugine/E-ugine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Bio:
+### 🚀 Backend & Payments Infrastructure Engineer
 
-- 🔭 I’m a Software Engineer
-- 🌱 I’m curios about core banking systems and their operations. 
-- 👯 I’m looking to collaborate on software development projects.
-- 💬 Ask me about Python, Java, Laravel
-- 😄 Pronouns: async/await 😆
-- ⚡ Fun fact: As a dev, I'm just as good as my tools!😆
+I build concurrency-safe financial backends, distributed data layers, and idempotent transaction processing systems. My engineering focus is eliminating race conditions, enforcing database-level data invariants, and optimizing low-latency architectures for international systems.
 
-### Languages and Tools
-- Technical Skills/ Programming language: Java, Python, PHP.
-<br> <br>
+- 🌍 **Remote Availability:** Actively seeking international remote contracts and roles.
+- ⚡ **Core Specializations:** Database Concurrency Control (ACID), Idempotent Payment Ingestion, Event-Driven Architectures, Double-Entry Ledgers.
+- 💬 **Ask me about:** Python (FastAPI), Relational Database Internals (PostgreSQL locking states), and API Optimization.
+- 😄 **Pronouns:** async / await 🚀
 
-<!--![Github stats](https://github-readme-stats.vercel.app/api?username=michellejuliet)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellejuliet)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michellejuliet&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
+---
 
-<!-- Update the image sources to include the "PAT_1" environment variable as a query parameter -->
-<p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=E-ugine&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="Mad Max" width=390 height=180/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E-ugine&show_icons=true&theme=radical&token=${PAT_1}" alt="Mad Max" width=410 height=170/>
+### 🛠️ Core Stack & Technical Arsenal
+
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- PostgreSQL -->
+  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="postgresql" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- Redis -->
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="redis" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- Docker -->
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- PHP/Laravel -->
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="java" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="45" height="45"/>
+  </a>&nbsp;
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="45" height="45"/>
+  </a>
 </p>
 
-<!--! <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
-  </div> -->
-  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
- 
+### 🎰 Featured Flagship Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=E-ugine&" alt="E-ugine" /></p>
+#### ⚡ [Idempotent Payment Ingestion Engine](YOUR_GITHUB_REPO_LINK)
+A backend API ensuring exactly-once transaction processing under high-frequency retry pressure.
+* **Problem Solved:** Prevents duplicate vendor disbursements during mid-flight server drops or simultaneous clients retries.
+* **Architecture:** Replaces slow application-side lock queues with database-level uniqueness constraints and a two-phase commit strategy with SHA-256 validation.
+* **Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest.
+
+#### 🧾 [Double-Entry Ledger Architecture](YOUR_GITHUB_REPO_LINK)
+A high-integrity accounting engine built to ensure zero structural drift.
+* **Problem Solved:** Eliminates invalid ledger postings, direct schema manipulation bypasses, or retroactive statement updates.
+* **Architecture:** Enforces financial invariants inside PostgreSQL database triggers while pairing a fast balance cache table with independent, raw SQL reconciliation lookups.
+* **Stack:** FastAPI, PostgreSQL, SQLAlchemy, Pytest.
+
+---
+
+### 📊 Engineering Dynamics
+
+<p align="center"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=E-ugine&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="Top Languages" width=390 height=180/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E-ugine&show_icons=true&theme=radical&token=${PAT_1}" alt="GitHub Stats" width=410 height=170/>
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
