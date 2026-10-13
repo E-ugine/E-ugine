@@ -1,91 +1,67 @@
-<div id="header" align="center">
-   <img src="https://media0.giphy.com/media/CXnj3jCwvETngjy11B/200.webp?cid=ecf05e47iclc83ju72sz1quzjrrp85dhdbpoyftxgw3iofav&ep=v1_gifs_search&rid=200.webp&ct=g" width="250px"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/eugine-agolla-309b99227/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<h1>
-  HOLA!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+# Eugine Agolla
 
-### Backend & Payments Infrastructure Engineer
+**Backend & Payments Infrastructure Engineer** · Nairobi, Kenya
 
-I build concurrency-safe financial backends, distributed data layers, and idempotent transaction processing systems. My engineering focus is eliminating race conditions, enforcing database-level data invariants, and optimizing low-latency architectures for international systems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugine-agolla/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@agollaeugine)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:agollaeugine@gmail.com)
 
--  **Remote Availability:** Actively seeking international remote contracts and roles.
-- ⚡ **Core Specializations:** Database Concurrency Control (ACID), Idempotent Payment Ingestion, Event-Driven Architectures, Double-Entry Ledgers.
-- 💬 **Ask me about:** Python (FastAPI), Relational Database Internals (PostgreSQL locking states), and API Optimization.
-- 😄 **Pronouns:** async / await 
+I build financial backends that stay correct under concurrency: idempotent payment ingestion, double-entry ledgers, and database-enforced invariants in PostgreSQL.
+
+- **Focus:** concurrency control (row-level locking, unique-constraint idempotency), double-entry accounting, reconciliation, event-driven workflows.
+- **Ask me about:** PostgreSQL locking behaviour, idempotency key design, testing race conditions against a real database.
+- **Open to:** Roles in backend and payments infrastructure.
+- **Pronouns:** `async` / `await`
 
 ---
 
-### 🛠️ Core Stack
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA539?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+Also comfortable with: Node.js, MySQL, MongoDB, Elasticsearch, AWS, Vue.js, React.
+
+---
+
+### Featured projects
+
+#### [Idempotent Payment Ingestion Engine](https://github.com/E-ugine/idempotent-ingestion-engine)
+Exactly-once payment processing under simultaneous duplicate requests, network retries, and mid-transaction crashes.
+
+- **Idempotency at the database layer:** a unique constraint makes Postgres arbitrate between concurrent duplicates, with no application-side locks.
+- **Crash recovery:** a two-step reserve/complete flow with SHA-256 request fingerprinting (so a reused key with a different payload is rejected) and staleness-bound polling to recover requests orphaned by a server failure.
+- **Tenant isolation:** idempotency keys are scoped per account, so cross-tenant collisions are impossible by design and don't depend on key randomness.
+- **Verified with:** a threaded test suite that fires genuinely simultaneous requests at a real PostgreSQL instance.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pytest`
+
+#### [Double-Entry Ledger](https://github.com/E-ugine/double-entry-accounting-ledger)
+An accounting ledger whose debit/credit invariants hold even if the application layer is bypassed.
+
+- **Invariants in the database:** four PostgreSQL triggers block unbalanced postings, direct-insert bypasses, and changes to finalized transactions.
+- **Fast reads, checkable truth:** a cached balance column serves reads, and an independent SQL reconciliation function detects drift between the cache and the ledger.
+- **Tests run on real migrations:** the test database is built from the same Alembic migrations as production. This caught a trigger-induced timestamp gap that ORM-generated test schemas missed.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pytest`
+
+---
+### GitHub activity
 
 <p align="left">
-  <!-- Python -->
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- PostgreSQL -->
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="postgresql" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- Redis -->
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="redis" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- Docker -->
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- PHP/Laravel -->
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="php" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- Java -->
-  <a href="https://java.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="java" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- Tailwind CSS -->
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="tailwind" width="45" height="45"/>
-  </a>&nbsp;
-  <!-- Vue.js -->
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="vuejs" width="45" height="45"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=E-ugine&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E-ugine&layout=compact&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-
----
-
-### 🎰 Featured Flagship Projects
-
-#### ⚡ [Idempotent Payment Ingestion Engine](YOUR_GITHUB_REPO_LINK)
-A backend API ensuring exactly-once transaction processing under high-frequency retry pressure.
-* **Problem Solved:** Prevents duplicate vendor disbursements during mid-flight server drops or simultaneous clients retries.
-* **Architecture:** Replaces slow application-side lock queues with database-level uniqueness constraints and a two-phase commit strategy with SHA-256 validation.
-* **Stack:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, Pytest.
-
-#### 🧾 [Double-Entry Ledger Architecture](YOUR_GITHUB_REPO_LINK)
-A high-integrity accounting engine built to ensure zero structural drift.
-* **Problem Solved:** Eliminates invalid ledger postings, direct schema manipulation bypasses, or retroactive statement updates.
-* **Architecture:** Enforces financial invariants inside PostgreSQL database triggers while pairing a fast balance cache table with independent, raw SQL reconciliation lookups.
-* **Stack:** FastAPI, PostgreSQL, SQLAlchemy, Pytest.
-
----
-
-### 📊 Engineering Dynamics
-
-<p align="center"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=E-ugine&show_icons=true&locale=en&layout=compact&theme=radical&token=${PAT_1}" alt="Top Languages" width=390 height=180/> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=E-ugine&show_icons=true&theme=radical&token=${PAT_1}" alt="GitHub Stats" width=410 height=170/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=E-ugine&hide_border=true" alt="GitHub streak"/>
 </p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
-
