@@ -11,7 +11,6 @@ I build financial backends that stay correct under concurrency: idempotent payme
 - **Focus:** concurrency control (row-level locking, unique-constraint idempotency), double-entry accounting, reconciliation, event-driven workflows.
 - **Ask me about:** PostgreSQL locking behaviour, idempotency key design, testing race conditions against a real database.
 - **Open to:** Roles in backend and payments infrastructure.
-- **Pronouns:** `async` / `await`
 
 ---
 
